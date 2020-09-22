@@ -1,0 +1,17 @@
+﻿  Pong.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\djw0034\Documents\vcpkg-master\installed\x86-windows\include\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+C:\Users\djw0034\source\repos\Pong\Pong\Pong.cpp(31,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\djw0034\source\repos\Pong\Pong\Pong.cpp(72,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\djw0034\source\repos\Pong\Pong\Pong.cpp(72,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\djw0034\source\repos\Pong\Pong\Pong.cpp(211,26): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\djw0034\source\repos\Pong\Pong\Pong.cpp(212,24): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\djw0034\source\repos\Pong\Pong\Pong.cpp(273,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\djw0034\source\repos\Pong\Pong\Pong.cpp(278,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\djw0034\source\repos\Pong\Pong\Pong.cpp(328,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\djw0034\source\repos\Pong\Pong\Pong.cpp(382,36): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Pong.vcxproj -> C:\Users\djw0034\source\repos\Pong\Debug\Pong.exe
